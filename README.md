@@ -20,7 +20,7 @@
 
 <div>
 <img align="center" alt="Luciano-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="center" alt="Luciano-Go" height="30" width="40" src="https:file:///Users/lfantinati/Downloads/go-8.svg"/>
+<img align="center" alt="Luciano-Go" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041"/>
 <img align="center" alt="Luciano-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
 <img align="center" alt="Luciano-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="center" alt="Luciano-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
